@@ -1,0 +1,3 @@
+module app/calc
+
+go 1.27.1
